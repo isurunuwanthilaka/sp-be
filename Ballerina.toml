@@ -1,0 +1,10 @@
+[package]
+org = "isuru"
+name = "salary_planner"
+version = "0.1.0"
+distribution = "2201.8.5"
+
+[build-options]
+observabilityIncluded = true
+
+
